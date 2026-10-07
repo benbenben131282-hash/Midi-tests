@@ -33,3 +33,5 @@ https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/Minecraft
 https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/Minecraft.mid
 https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/Andrew%20Wrangell-%20Rush%20E.mid
 https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/Hans%20Zimmer%20-%20Interstellar%20Theme.mid
+https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/Indila%20-%20Love%20Story.mid
+https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/The%20Stranglers%20-%20Golden-Brown.mid
