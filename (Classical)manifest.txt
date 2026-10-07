@@ -1,2 +1,5 @@
 https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/Fur%20Elise.mid
 https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/Andrew%20Wrangell-%20Rush%20E.mid
+https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/Claude%20Debussy%20-%20Clair%20De%20Lune.mid
+https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/Erik%20Satie%20-%20Gymnope%CC%81dies.mid
+https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/Fre%CC%81de%CC%81ric%20Chopin%20-%20Nocturne.mid
