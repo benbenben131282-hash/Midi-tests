@@ -36,3 +36,6 @@ https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/Hans%20Zi
 https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/Indila%20-%20Love%20Story.mid
 https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/The%20Stranglers%20-%20Golden-Brown.mid
 https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/AWOLNATION%20-%20Sail.mid
+https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/Claude%20Debussy%20-%20Clair%20De%20Lune.mid
+https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/Erik%20Satie%20-%20Gymnope%CC%81dies.mid
+https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/Fre%CC%81de%CC%81ric%20Chopin%20-%20Nocturne.mid
