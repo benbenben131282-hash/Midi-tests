@@ -39,4 +39,7 @@ https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/AWOLNATIO
 https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/Claude%20Debussy%20-%20Clair%20De%20Lune.mid
 https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/Erik%20Satie%20-%20Gymnope%CC%81dies.mid
 https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/Fre%CC%81de%CC%81ric%20Chopin%20-%20Nocturne.mid
-https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/Five%20nights%20at%20Freddy's%20Song.mid
+https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/FNAF%20TLT%20-%20Five%20Nights%20At%20Freddys.mid
+https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/FNAF%20TLT-%20It's%20Been%20So%20Long.mid
+https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/FNAF%20TLT%20-%20Die%20In%20A%20Fire.mid
+https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/FNAF%20TLT%20-%20I%20Got%20No%20Time.mid
