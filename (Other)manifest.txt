@@ -5,3 +5,4 @@ https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/Exit%20Mu
 https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/JVKE%20-%20Golden%20Hour.mid
 https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/James%20Horner%20&%20Celine%20Dion%20-%20Titanic.mid
 https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/Hans%20Zimmer%20-%20Interstellar%20Theme.mid
+https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/John%20Carpenter%20-%20Halloween%20Theme.mid
