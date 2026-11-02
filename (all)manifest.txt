@@ -54,3 +54,4 @@ https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/John%20Ca
 https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/Hoobastank%20-%20The%20Reason.mid
 https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/Fallen%20Down.mid
 https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/Undertale%20-%20Rush%20Megalovania.mid
+https://github.com/benbenben131282-hash/Midi-tests/raw/refs/heads/main/Metallica%20-%20One.mid
